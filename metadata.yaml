@@ -1,0 +1,34 @@
+_repo: The-History-of-the-Devils-of-Loudun-Volumes-I-IIIand-Execution-of-Urbain-Grandier-Told-by-an-__45282
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Goldsmid, Edmund
+    alias: Goldsmid, Edmund Marsden
+    gutenberg_agent_id: '2022'
+    url: http://www.gutenberg.org/2009/agents/2022
+covers:
+- cover_type: archival
+  image_path: 45282-h/images/firstcover.jpg
+creator:
+  author:
+    agent_name: Des Niau
+    gutenberg_agent_id: '44667'
+    url: http://www.gutenberg.org/2009/agents/44667
+description: ''
+gutenberg_issued: '2014-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45282'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grandier, Urbain, 1590-1634'
+- !lcsh 'Demoniac possession'
+- !lcsh 'Couvent des Ursulines (Loudun, France)'
+- !lcc 'BF'
+title: "The History of the Devils of Loudun, Volumes I-III\r\nThe Alleged Possession\
+  \ of the Ursuline Nuns, and the Trial and Execution of Urbain Grandier, Told by\
+  \ an Eye-witness"
+url: http://www.gutenberg.org/ebooks/45282
